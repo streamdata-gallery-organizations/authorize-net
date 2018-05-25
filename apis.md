@@ -1,15 +1,15 @@
 ---
 name: Authorize.Net
-x-slug: authorizenet
+x-slug: authorize-net
 description: Authorize.Nets payment gateway provides services to help merchants accept
   online and mobile credit card processing, payments via echecks, and more.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/376-authorize-net.jpg
 x-kinRank: "9"
 x-alexaRank: "7051"
 tags: Authorize.Net
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/authorize-net/master/_listings/authorizenet/apis.md
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/authorize-net/master/_listings/authorize-net/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
